@@ -1,2 +1,2 @@
 # Tincopalca
-Supporting code and data for Sundell et al. (in review, EPSL) 
+Supporting data for Sundell et al. (in review, EPSL) 
